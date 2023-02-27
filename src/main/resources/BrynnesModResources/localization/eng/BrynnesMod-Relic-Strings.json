@@ -1,0 +1,12 @@
+{
+  "BrynnesMod:OiledNet": {
+    "NAME": "Oiled Net",
+    "FLAVOR": "What is this?",
+    "DESCRIPTIONS": [
+      "Choose a card. Whenever you draw a curse, draw the chosen card.",
+      "Whenever you draw a curse, draw ",
+      ".",
+      "Select a card to bottle for "
+    ]
+  }
+}

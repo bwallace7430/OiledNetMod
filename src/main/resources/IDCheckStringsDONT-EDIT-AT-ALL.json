@@ -1,0 +1,8 @@
+{
+  "DEFAULTID": "",
+  "DEVID": "",
+  "EXCEPTION": "Go to your constructor in your class with SpireInitializer and change your mod ID from \"BrynnesMod\"",
+  "PACKAGE_EXCEPTION": "Rename your BrynnesMod folder (package) to match your mod ID! ",
+  "RESOURCE_FOLDER_EXCEPTION": "Rename your BrynnesModResources folder to match your mod ID!",
+  "RESOURCES": "Resources"
+}
